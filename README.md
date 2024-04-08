@@ -13,3 +13,5 @@
 <p align="left">✨ Creating bugs since i was born<br>📚 I'm currently learning SwiftUI & Objective-c<br>🎲 Fun fact: Pips</p>
 
 ###
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pipp0z&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
