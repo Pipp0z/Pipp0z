@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since i was born<br>📚 I'm currently learning SwiftUI & Objective-c<br>🎲 Fun fact: Pips</p>
+<p align="left">✨ Creating bugs since i was born<br>📚 I'm currently learning React & SwiftUI<br>🎲 Fun fact: Pips</p>
 
 ###
 
